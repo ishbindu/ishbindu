@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3> Skill Set </h3>
+<h2> Skill Set </h2>
 
 - C language
 - Python
