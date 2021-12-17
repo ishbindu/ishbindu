@@ -3,7 +3,6 @@
 - 🔭 I’m currently working on Tableau
 - 🌱 I’m currently learning Spark
 - 📫 How to reach me ishbindu@gmail.com
-- ⚡ Fun fact:
 
 
 <h2> Skill Set </h2>
