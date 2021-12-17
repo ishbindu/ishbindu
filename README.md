@@ -10,9 +10,11 @@
 <a href="https://github.com/ishbindu/github-readme-stats"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishbindu&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>  
 <a href="https://github.com/ishbindu/github-readme-stats"><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=ishbindu&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
+## Streak stat's
+
 <!-- GitHub Readme Streak Stats - https://github.com/ishbindu/github-readme-streak-stats -->
   <a href="https://github.com/ishbindu/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="varun's streak" src="https://github-readme-streak-stats.herokuapp.com?user=ishbindu&theme=monokai-metallian&hide_border=true"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="varun's streak" src="https://github-readme-streak-stats.herokuapp.com?user=ishbindu&theme=primer-metallian&hide_border=true"/>
   </a>
 <br>bye......................................................</br>
 
