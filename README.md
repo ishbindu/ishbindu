@@ -1,7 +1,8 @@
 ### Hi there 👋 it's me ishwarya
 <h2> Skill Set </h2>
 
-<img align="right" src="https://user-images.githubusercontent.com/46434711/115353399-1312bb00-a1d6-11eb-960d-c1720afec7e3.png" height="250" width="589">
+<img align="right" src="https://www.stylevore.com/wp-content/uploads/2020/01/0aecae65e9c73f438c2c77120067ce29.jpg" height="130" width="130">
+
 
 - Python
 - SQL
