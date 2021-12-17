@@ -28,6 +28,13 @@ Here are some ideas to get you started:
 </p>
 
 -----
+
+## 📊 My Github Stats 
+<p >
+<a href="https://github.com/ishbindu/github-readme-stats"><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=ishbindu&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/ishbindu/github-readme-stats"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishbindu&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+</p>
+
 ## 🔥 Streak stats
 
 <!-- GitHub Readme Streak Stats - https://github.com/ishbindu/github-readme-streak-stats -->
@@ -37,14 +44,6 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-
-## 📊 My Github Stats 
-<p >
-<a href="https://github.com/ishbindu/github-readme-stats"><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=ishbindu&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<a href="https://github.com/ishbindu/github-readme-stats"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishbindu&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-</p>
-
-<a href="https://github.com/ishbindu/github-readme-activity-graph"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ishbindu&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
  
 
 [![-------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/ishbindu?tab=repositories)
