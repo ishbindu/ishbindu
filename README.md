@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 
 ## 📊 Git Stats 
 <p >
+<a href="https://github.com/ishbindu/github-readme-stats"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishbindu&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>  
 <a href="https://github.com/ishbindu/github-readme-stats"><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=ishbindu&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<a href="https://github.com/ishbindu/github-readme-stats"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishbindu&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 </p>
 
 ## 🔥 Streaks
@@ -40,10 +40,4 @@ Here are some ideas to get you started:
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="varun's streak" src="https://github-readme-streak-stats.herokuapp.com?user=ishbindu&theme=monokai-metallian&hide_border=true"/>
   </a>
 </p>
-
- 
-
-[![-------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/ishbindu?tab=repositories)
-<a href="https://github.com/BaseMax?tab=repositories"><img src="https://github-profile-trophy.vercel.app/?username=ishbindu&column=8&margin-w=15&margin-h=15" alt="varunaluri"></a> 
-
 ---
