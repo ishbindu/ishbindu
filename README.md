@@ -1,4 +1,11 @@
 ### Hi there 👋 it's me ishwarya
+
+- 🔭 I’m currently working on Tableau
+- 🌱 I’m currently learning Spark
+- 📫 How to reach me "ishbindu@gmail.com"
+- ⚡ Fun fact:
+
+
 <h2> Skill Set </h2>
 
 <img align="right" src="https://www.stylevore.com/wp-content/uploads/2020/01/0aecae65e9c73f438c2c77120067ce29.jpg" height="180" width="180">
@@ -22,10 +29,17 @@
   </a>
 <br>bye......................................................</br>
 
+<!--
+**ishbindu/ishbindu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Tableau
-- 🌱 I’m currently learning Spark
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
+- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
