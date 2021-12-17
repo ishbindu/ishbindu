@@ -7,6 +7,8 @@
 - AWS
 - Tableau
 
+<img align="right" src="https://user-images.githubusercontent.com/46434711/115353399-1312bb00-a1d6-11eb-960d-c1720afec7e3.png" height="250" width="589">
+
 <a href="https://github.com/ishbindu/github-readme-stats"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishbindu&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>  
 <a href="https://github.com/ishbindu/github-readme-stats"><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=ishbindu&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
