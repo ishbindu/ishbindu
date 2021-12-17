@@ -16,6 +16,8 @@
   <a href="https://github.com/ishbindu/github-readme-streak-stats">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="varun's streak" src="https://github-readme-streak-stats.herokuapp.com?user=ishbindu&theme=monokai-metallian&hide_border=true"/>
   </a>
+<br>bye......................................................</br>
+
 <!--
 **ishbindu/ishbindu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -30,4 +32,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<br>bye......................................................</br>
