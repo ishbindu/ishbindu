@@ -1,5 +1,6 @@
 ### Hi there 👋 it's me ishwarya
-<h6> Skill Set </h6>
+<h2> Skill Set </h2>
+
 - Python
 - SQL
 - ETL
