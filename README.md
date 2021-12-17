@@ -16,26 +16,23 @@ Here are some ideas to get you started:
 -->
 <h2> Skill Set </h2>
 
-- C language
 - Python
-- Oracle SQL
+- SQL
 - ETL
-- Data Ware Housing
-- Machine Learning
 - AWS
-- OBIEE
+- Tableau
 
 </p>
 
 -----
 
-## 📊 My Github Stats 
+## 📊 Git Stats 
 <p >
 <a href="https://github.com/ishbindu/github-readme-stats"><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=ishbindu&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <a href="https://github.com/ishbindu/github-readme-stats"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishbindu&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 </p>
 
-## 🔥 Streak stats
+## 🔥 Streaks
 
 <!-- GitHub Readme Streak Stats - https://github.com/ishbindu/github-readme-streak-stats -->
 <p >
