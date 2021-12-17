@@ -14,7 +14,7 @@
 
 <!-- GitHub Readme Streak Stats - https://github.com/ishbindu/github-readme-streak-stats -->
   <a href="https://github.com/ishbindu/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="varun's streak" src="https://github-readme-streak-stats.herokuapp.com?user=ishbindu&theme=primer-metallian&hide_border=true"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="varun's streak" src="https://github-readme-streak-stats.herokuapp.com?user=ishbindu&theme=minimal-metallian&hide_border=true"/>
   </a>
 <br>bye......................................................</br>
 
