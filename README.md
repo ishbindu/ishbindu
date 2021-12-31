@@ -1,7 +1,7 @@
 
 ### Hi there 👋 it's me ishwarya
 
-- 🔭 I’m currently working on Tableau
+- 🔭 I’m currently workig as Data Engineer
 - 🌱 I’m currently learning Spark
 - 📫 How to reach me ishbindu@gmail.com
 
